@@ -1,5 +1,5 @@
 bruceforce
 ==========
 
-Bruce Force
-and more
+Bruce Force - Random Code
+
